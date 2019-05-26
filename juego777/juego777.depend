@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1545998797 source:c:\users\sett\documents\curso c y c++\juego rpg con sdl\juego777\main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"iniciar_ventana.h"
+	"imagenes.h"
+
+1540512674 c:\users\sett\documents\curso c y c++\juego rpg con sdl\juego777\iniciar_ventana.h
+
+1549007195 c:\users\sett\documents\curso c y c++\juego rpg con sdl\juego777\imagenes.h
+	"mapa.h"
+
+1540347654 c:\users\sett\documents\curso c y c++\juego rpg con sdl\juego777\mapa.h
+

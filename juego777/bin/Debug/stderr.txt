@@ -1,0 +1,1 @@
+no se puede cargar el fondo imagen podria no tener el nombre correcto o no se detecta el archivo Couldn't open casa.bmp
